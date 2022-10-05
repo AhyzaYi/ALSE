@@ -1,1 +1,1 @@
-# repositorio de ejemplo_6
+# Ejemplo_6_repo
